@@ -29,9 +29,6 @@ def even_odd(text):
         # print the middle 2 letters
         second_middle_char = (find_length(text) // 2)
         first_middle_char = second_middle_char - 1
-        print(text[first_middle_char])
-        print(text[second_middle_char])
-
         return text[first_middle_char] + text[second_middle_char]
     else:
         print("it's odd")
