@@ -1,5 +1,3 @@
-#
-
 # Approach: find the length of the string
 # check if it's even or odd
 # print the first and last letter
